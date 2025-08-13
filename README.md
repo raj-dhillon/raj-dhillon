@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I'm currently exploring DevOps through a project VPS<br>🎯 Goals: Find a way to offload my memory management<br>🎲 Fun fact: I can tell you any day a date lands on, with 100% accuracy around 99.999% of the time</p>
+<p align="left">💻 I'm currently exploring DevOps through a project VPS- I just got distracted and am now also working on an agentic learning crew with CrewAI<br>🎯 Goals: Find a way to offload my memory management<br>🎲 Fun fact: I can tell you any day a date lands on, with 100% accuracy around 99.999% of the time</p>
 
 ###
 
