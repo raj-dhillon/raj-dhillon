@@ -62,10 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60" alt="express logo"  />
 </div>
 
-###
-
-<h2 align="left">Currently learning...</h2>
-
-###
-[![Alt text for the image](https://tryhackme-badges.s3.amazonaws.com/rajdhillon.png)](https://tryhackme.com/p/rajdhillon)
-###
